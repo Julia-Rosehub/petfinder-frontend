@@ -1,0 +1,38 @@
+.homeAdSplit-item {
+	padding: 50px 0;
+}
+
+.homeAdSplit-item+.homeAdSplit-item {
+	border-top: 1px solid #ccc;
+}
+
+@media print, screen and (min-width: 668px) {
+	.homeAdSplit-item {
+		padding: 0 30px;
+	}
+
+	.homeAdSplit-item+.homeAdSplit-item {
+		display: flex;
+		border-top: none;
+		border-left: 1px solid #ccc;
+	}
+
+	.homeAdSplit {
+		display: flex;
+		align-items: center;
+		justify-content: center;
+		margin-top: 0;
+	}
+}
+
+@media print, screen and (min-width: 767px) {
+	.homeAdSplit-item {
+		padding: 0 75px;
+	}
+}
+
+@media print, screen and (min-width: 1024px) {
+	.homeAdSplit-item {
+		padding: 0 100px;
+	}
+}

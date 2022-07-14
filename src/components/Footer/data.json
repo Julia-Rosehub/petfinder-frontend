@@ -1,0 +1,129 @@
+[
+	{
+		"menu": "About Petfinder",
+		"subMenu": [
+			{
+				"name": "About Petfinder",
+				"path": "/about"
+			},
+			{
+				"name": "FAQs",
+				"path": "/faqs"
+			},
+			{
+				"name": "Partnerships",
+				"path": "/partnership"
+			},
+			{
+				"name": "Terms of Service",
+				"path": "/terms-of-service"
+			},
+			{
+				"name": "Mobile Site & Apps",
+				"path": "/mobile"
+			},
+			{
+				"name": "Petfinder Foundation",
+				"path": "/petfinderfoundation"
+			},
+			{
+				"name": "Put Petfinder On Your Site"
+			},
+			{
+				"name": "Free Widgets & Graphics"
+			},
+			{
+				"name": "Press"
+			},
+			{
+				"name": "For Developers"
+			},
+			{
+				"name": "Contact Us"
+			}
+		]
+	},
+	{
+		"menu": "Pet Adoption",
+		"subMenu": [
+			{
+				"name": "Dog Adoption",
+				"path": "/dog-adoption"
+			},
+			{
+				"name": "Cat Adoption",
+				"path": "/cat-adoption"
+			},
+			{
+				"name": "Other Pet Adoption",
+				"path": "/other-pet-adoption"
+			},
+			{
+				"name": "Search Adoption Organizations",
+				"path": "/search-adoption-organizations"
+			},
+			{
+				"name": "Happy Tails Pet Adoption Stories",
+				"path": "/happy-tails-pet-adoption-stories"
+			},
+			{
+				"name": "Local Adoption Events",
+				"path": "/local-adoption-events"
+			},
+			{
+				"name": "Shelters & Rescues",
+				"path": "/shelters-and-rescues"
+			},
+			{
+				"name": "Dog Quiz",
+				"path": "/dog-quiz"
+			}
+		]
+	},
+	{
+		"menu": "Pet Care Topics",
+		"subMenu": [
+			{
+				"name": "Dog Care"
+			},
+			{
+				"name": "Dog Breeds"
+			},
+			{
+				"name": "Cat Care"
+			},
+			{
+				"name": "Cat Breeds"
+			},
+			{
+				"name": "All Pet Care"
+			},
+			{
+				"name": "Pet Care Videos"
+			},
+			{
+				"name": "Helping Pets"
+			}
+		]
+	},
+	{
+		"menu": "Sitemap",
+		"path": "/sitemap"
+	},
+	{
+		"menu": "Privacy Policy(Updated)",
+		"path": "/privacy-policy"
+	},
+	{
+		"menu": "About Our Ads",
+		"path": "/about-our-ads"
+	},
+	{
+		"menu": "Shelter and Rescue Registration",
+		"path": "/shelter-and-rescue-registration"
+	},
+	{
+		"menu": "Do Not Sell Personal Information",
+		"path": "/do-not-sell-my-personal-information"
+	}
+]
